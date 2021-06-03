@@ -4,7 +4,7 @@
       }
       body {
         background-color: #A7DCA5;
-        background: radial-gradient(circle at center, #A7DCA5 0%, #f8f8f8 75%, #ebebeb 100%);
+        background: radial-gradient(circle at center, #A7DCA5 0%, #A7DCA5 75%, #A7DCA5 100%);
         color: #222;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         font-size: 1rem;
